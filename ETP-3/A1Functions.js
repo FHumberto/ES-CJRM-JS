@@ -1,5 +1,7 @@
 //? Colocar function sempre acima no código.
 
+console.log('FUNCTIONS:');
+
 // Function declaration - forma 1
 function sayHi()
 {

@@ -1,0 +1,29 @@
+.container
+{
+  max-width: 400px;
+}
+
+input[type=text],
+input[type=text]:focus
+{
+  color: #fff;
+  border: none;
+  background: rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+}
+
+.todos-container li
+{
+  background: #484E53;
+}
+
+/*! o I faz com que o mouse mude para mão quando passar por cima */
+i[data-trash]
+{
+  cursor: pointer;
+}
+
+.hidden
+{
+  display: none;
+}
